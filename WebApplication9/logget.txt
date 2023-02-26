@@ -1,0 +1,12 @@
+Now listening on: https://localhost:7091
+Now listening on: http://localhost:5203
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Visual C++\WebApplication9\WebApplication9\
+Path: / Time: 12:33:24
+Now listening on: https://localhost:7091
+Now listening on: http://localhost:5203
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Visual C++\WebApplication9\WebApplication9\
+Path: / Time: 12:36:29
